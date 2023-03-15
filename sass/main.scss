@@ -1,7 +1,8 @@
 // CSS general rules //
 
-html, body {
-  background-color: #2c2828;
+html,
+body {
+  background: #1f2122;
 }
 
 a {
@@ -11,11 +12,6 @@ a {
 h2, h3, h4, h5, h6 { 
   color: #fff;
   font-weight: 700;
-}
-
-html,
-body {
-  background: #1f2122;
 }
 
 ::selection {
