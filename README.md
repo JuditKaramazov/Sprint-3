@@ -18,6 +18,8 @@ Even though IT Academy came up with an already-made design, I decided to add som
 
 ![Alt text](https://github.com/JuditKaramazov/Sprint-3/blob/8e4881339bb715efc3532abf7ed421a5c556e079/images/Screenshot-3.png)
 
+And the `checkout page`, almost identical to IT Academy's with the difference that it respects the design that I applied to the `main site`:
+
 ![Alt text](https://github.com/JuditKaramazov/Sprint-3/blob/8e4881339bb715efc3532abf7ed421a5c556e079/images/Screenshot-4.png)
 
 
