@@ -1,10 +1,25 @@
 # Sprint 3 IT Academy | Shop
 
+
 ## Introduction
 
-A company in the e-commerce sector has asked us for a web application that allows them to offer the purchase of their products through the internet.
+As a first contact with JavaScript, IT Academy told us that a company in the e-commerce sector asked for a web application allowing them to offer the purchase of their products through the internet. After interiorizing some essential notions regarding web design thanks to the first sprints, we will now be in charge of setting up an initial demo version of the application for the client: management of the shopping cart and the application of the promotions on the final price.
 
-You will be in charge of setting up an initial demo version of the application for the client: management of the shopping cart and the application of the promotions on the final price. You have 2 weeks to finish, which is how long this sprint lasts.
+![Alt text](https://github.com/JuditKaramazov/Sprint-3/blob/8e4881339bb715efc3532abf7ed421a5c556e079/images/Screenshot-1.png)
+
+![Alt text](https://github.com/JuditKaramazov/Sprint-3/blob/8e4881339bb715efc3532abf7ed421a5c556e079/images/Screenshot-2.PNG)
+
+As seen above, these are the prototypes we had to work with:
+
+- the `main site`, providing users with functionalities such as adding products to the cart or showing a `modal` that includes the products they bought, their individual prices and the total one.
+- a `checkout page` with a proper validation system accepting certain conditions, depending on the field; if these conditions are not met, it doesn't allow the user to submit their form until all tests have been passed.
+
+Even though IT Academy came up with an already-made design, I decided to add some minimal changes while still respecting the requirements and expected features:
+
+![Alt text](https://github.com/JuditKaramazov/Sprint-3/blob/8e4881339bb715efc3532abf7ed421a5c556e079/images/Screenshot-3.png)
+
+![Alt text](https://github.com/JuditKaramazov/Sprint-3/blob/8e4881339bb715efc3532abf7ed421a5c556e079/images/Screenshot-4.png)
+
 
 <br>
 
